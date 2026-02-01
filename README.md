@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">A student and developer</h3>
+<h3 align="center">Aspiring developer</h3>
 
 - 🔭 Past years I've worked in Raiffeisenbank.
-- 🌱 I’m currently learning fullstack.
-- 🥅 2025 Goals: improve my skills and start IT career in Israel.
-
+- 💪 Finished fullstack developer course in 2025.
+- 👀 Actively searching for a position in hightech in Israel.
+- 🥅 2026 Goals: rework my past projects, improve my skills, be in touch with modern developing practices.
+ 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40px" height="40px"/> </a> 
